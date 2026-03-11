@@ -1,0 +1,14 @@
+# Laravel specific files to ignore
+/vendor/
+/node_modules/
+/public/hot
+/public/storage
+/.env
+Homestead.yaml
+Homestead.json
+/.idea/
+/.vagrant/
+/www/
+/Dockerfile
+/docker-compose.yml
+/src/
